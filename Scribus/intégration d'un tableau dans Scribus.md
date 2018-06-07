@@ -122,4 +122,4 @@ source :
 
 ---
 
-*[OpenSolus](https://opensolus.fr) &copy; juin 2018 - v1.1*
+*[OpenSolus &reg;](https://opensolus.fr) - juin 2018 - v1.1*

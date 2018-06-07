@@ -152,4 +152,4 @@ Sources :
 
 ---
 
-*[OpenSolus](https://opensolus.fr) &copy; mai 2018 - v1.4*
+*[OpenSolus	&reg;](https://opensolus.fr) - mai 2018 - v1.4*

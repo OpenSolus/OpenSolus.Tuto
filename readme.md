@@ -7,4 +7,4 @@ Ils sont mis à disposition sous licence GPL v3.0 mais ils sont également soumi
 
 ---
 
-*[OpenSolus &trade;](https://opensolus.fr)*
+*[OpenSolus &reg;](https://opensolus.fr)*
