@@ -145,11 +145,11 @@ Aligement à droite
 
 Sources :  
 
-> <https://daringfireball.net/projects/markdown/syntax>  
-> [Un guide pour bien commencer avec markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)  
-> <https://openclassrooms.com/courses/redigez-en-markdown>
-> <https://help.github.com/articles/basic-writing-and-formatting-syntax/>
+- <https://daringfireball.net/projects/markdown/syntax>  
+- [Un guide pour bien commencer avec markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)  
+- <https://openclassrooms.com/courses/redigez-en-markdown>
+- <https://help.github.com/articles/basic-writing-and-formatting-syntax/>
 
 ---
 
-*[Eric Gautheron](http://eric.gautheron.info) &copy; janvier 2017 - v1.3*
+*[OpenSolus](https://opensolus.fr) &copy; mai 2018 - v1.4*
